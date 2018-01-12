@@ -1,3 +1,6 @@
 [submodule "thrift"]
 	path = thrift
 	url = https://github.com/apache/thrift.git
+[submodule "folly"]
+	path = folly
+	url = https://github.com/facebook/folly
